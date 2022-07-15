@@ -1,2 +1,2 @@
 # Fantasy
-A Simple Game in Python
+Simple Games in Python
