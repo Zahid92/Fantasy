@@ -1,2 +1,4 @@
 # Fantasy
-Simple Games in Python
+A Simple Game in Python
+What is this Game About ?
+  for now i dont know.
